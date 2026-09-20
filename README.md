@@ -84,7 +84,6 @@ El puntaje es la distancia a la frontera de decisión del `LinearSVC`, no es una
 
 ## Limitaciones
 
-- El modelo no puede predecir el ODS 17 porque no está en los datos de entrenamiento.
-- Un texto puede tratar varios ODS a la vez, pero el modelo asigna solo uno.
+
 - Funciona con textos en español. Si el texto no tiene palabras que el modelo conozca, la app lo avisa.
 - Al usar bolsa de palabras, dos textos con vocabulario parecido pueden confundirse aunque traten temas distintos.
