@@ -4,7 +4,7 @@ Microproyecto 2 del curso **Machine Learning No Supervisado (MLNS)** de la Maest
 
 **Autores:** Sebastian Guillermo Martinez Velilla y Alvaro Betancourt  
 
-🔗 **Aplicación desplegada:** [https://master-x5jgxjywwfwhgywanawsib.streamlit.app](https://)
+🔗 **Aplicación desplegada:** https://tu-app.streamlit.app
 
 ## Descripción
 
